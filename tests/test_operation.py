@@ -1,4 +1,4 @@
-from src.math_operations import add, sub
+from src.math_operations import add, subtract
 
 def test_add():
     assert add(10, 5) == 15
